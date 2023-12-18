@@ -1,0 +1,32 @@
+{
+    "user": [
+      {
+        "id": 1,
+        "name": "jerold",
+        "email": "jeroldraja@gmail.com",
+        "phone": 9791582480,
+        "address": "jsbfbwirjvkscmd"
+      },
+      {
+        "name": "Jerold",
+        "email": "jerold@gmail.com",
+        "phone": "9798949651",
+        "address": "Raja mohan ",
+        "id": 2
+      },
+      {
+        "name": "jjk",
+        "email": "email@gmail.com",
+        "phone": "7845794515",
+        "address": "jerold",
+        "id": 3
+      }
+    ],
+    "admin": [
+      {
+        "id": 1,
+        "name": "jerold",
+        "password": "jerold12"
+      }
+    ]
+  }
